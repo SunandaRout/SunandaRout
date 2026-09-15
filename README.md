@@ -4,12 +4,12 @@
 
 ### 📊 Data Analyst | Data Analytics Enthusiast | B.Tech CSE (IoT) Student
 
-**Turning data into insights, dashboards, and better business decisions.**
+**Turning raw data into insights, dashboards, and better business decisions.**
 
 <p>
-  <a href="https://srout-ai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sunanda-rout-038091329/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/SunandaRout"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://srout-ai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sunanda-rout-038091329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/SunandaRout"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </div>
@@ -18,42 +18,50 @@
 
 ## 👨‍💻 About Me
 
-I am a **B.Tech Computer Science & Engineering (IoT) student** focused on building my career in **Data Analytics**. I enjoy working with real-world datasets, finding patterns, creating meaningful visualizations, and presenting insights through professional dashboards.
+I am a **B.Tech Computer Science & Engineering (IoT) student** focused on building a career in **Data Analytics**. I enjoy cleaning and analyzing real-world datasets, discovering patterns, creating clear visualizations, and building professional dashboards.
 
-- 🎓 Gita Autonomous College, Bhubaneswar
-- 📊 Focus: **Data Analysis & Business Intelligence**
-- 🐍 Python: **Pandas, NumPy, Matplotlib, Seaborn**
-- 🗄️ SQL: **MySQL, data querying & analysis**
-- 📈 BI: **Power BI & Excel**
-- ☁️ Data Platforms: **BigQuery & Snowflake**
-- 🔍 Core: **Data Cleaning, EDA, Statistics & Data Visualization**
-- 🚀 Building practical analytics projects with real-world datasets
+- 🎓 **Gita Autonomous College, Bhubaneswar**
+- 📊 Focused on **Data Analysis & Business Intelligence**
+- 🐍 **Python, Pandas, NumPy, Matplotlib, Seaborn**
+- 🗄️ **SQL & MySQL** for data querying and analysis
+- 📈 **Power BI & Excel** for dashboards and reporting
+- ☁️ **BigQuery & Snowflake** for modern data platforms
+- 🔍 **Data Cleaning, EDA, Statistics & Data Visualization**
 
 ---
 
-## 📊 GitHub Dashboard
+# 📊 GitHub Dashboard
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><b>24</b><br/>Repositories</td>
-<td align="center"><b>19</b><br/>Public</td>
-<td align="center"><b>5</b><br/>Private</td>
-<td align="center"><b>Data Analytics</b><br/>Focus</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=SunandaRout&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunandaRout&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="175" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SunandaRout&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunandaRout&layout=compact&hide_border=true&langs_count=8" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunandaRout&theme=github_dark" width="95%" />
 
 </div>
 
 ---
 
-## 💻 Languages & Technologies
+# 📌 Featured Repositories
+
+<div align="center">
+
+| Repository | Description | Stack |
+|:---:|---|:---:|
+| 📊 **[DataViz AI](https://github.com/SunandaRout/dataviz-ai-)** | Automated EDA, visualization & SQL analytics | Python · SQL · EDA |
+| 🛍️ **[Customer Behaviour Dashboard](https://github.com/SunandaRout/Customer-behaviour-dashboard)** | Customer analysis with interactive dashboard | Python · Pandas · SQL · Power BI |
+| 🦠 **[COVID Portfolio Project](https://github.com/SunandaRout/covid-portfolio-project)** | Data analysis and visualization project | Data Analytics · Visualization |
+| 🏏 **[IPL Performance Analytics](https://github.com/SunandaRout/ipl-performance-analytics)** | Player and team performance analysis | Python · Analytics |
+| 🎬 **[Netflix Data Analysis](https://github.com/SunandaRout/Netflix-)** | Exploratory analysis of Netflix content | Python · Pandas · EDA |
+
+</div>
+
+---
+
+# 💻 Languages & Technologies
 
 <div align="center">
 
@@ -61,11 +69,13 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 
 <img src="https://skillicons.dev/icons?i=python,mysql,js,java,cpp,html,css" />
 
-### Data Analytics
+### Data Analytics & Visualization
 
-**Pandas** · **NumPy** · **Matplotlib** · **Seaborn** · **Power BI** · **Excel** · **EDA** · **Statistics**
+<img src="https://skillicons.dev/icons?i=python" />
 
-### Data Platforms & Developer Tools
+**Pandas** · **NumPy** · **Power BI** · **Excel** · **Matplotlib** · **Seaborn** · **EDA** · **Statistics**
+
+### Data Platforms & Tools
 
 **BigQuery** · **Snowflake** · **Git** · **GitHub** · **VS Code**
 
@@ -73,58 +83,54 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 
 ---
 
-## 🚀 Featured Analytics Projects
-
-| Project | Focus | Tools |
-|---|---|---|
-| **DataViz AI** | Automated EDA, visualization & SQL analysis | Python • SQL • EDA |
-| **Customer Behaviour Analysis** | Customer insights & dashboarding | Python • Pandas • SQL • Power BI |
-| **COVID Portfolio Project** | Public-data analysis & visualization | Data Analysis • Visualization |
-| **IPL Performance Analytics** | Cricket performance & data insights | Python • Data Analytics |
-| **Netflix Data Analysis** | Content trends & exploratory analysis | Python • Pandas • Visualization |
-
-### 🔗 Project Links
-
-- 📊 [DataViz AI — Live Project](https://datavizai-delta.vercel.app/) · [GitHub](https://github.com/SunandaRout/dataviz-ai-)
-- 🛍️ [Customer Behaviour Dashboard](https://github.com/SunandaRout/Customer-behaviour-dashboard)
-- 🦠 [COVID Portfolio Project](https://github.com/SunandaRout/covid-portfolio-project)
-- 🏏 [IPL Performance Analytics](https://github.com/SunandaRout/ipl-performance-analytics)
-- 🎬 [Netflix Data Analysis](https://github.com/SunandaRout/Netflix-)
-
----
-
-## 📈 Data Analytics Skill Stack
+# 📈 Analytics Skill Stack
 
 <div align="center">
 
-| Data Preparation | Analysis | Visualization | BI & Warehousing |
-|---|---|---|---|
+| 🧹 Data Preparation | 🔎 Analysis | 📊 Visualization | ☁️ Data Platforms |
+|:---:|:---:|:---:|:---:|
 | Data Cleaning | SQL | Power BI | BigQuery |
-| Pandas | EDA | Matplotlib | Snowflake |
-| NumPy | Statistics | Seaborn | Excel |
+| Pandas | EDA | Excel | Snowflake |
+| NumPy | Statistics | Matplotlib | MySQL |
+| Data Transformation | Business Analysis | Seaborn | Data Warehousing |
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+# 🚀 What I'm Building
 
-**Advanced SQL** → **Python for Analytics** → **Statistics** → **Power BI** → **Business Analytics** → **Modern Data Warehousing**
-
----
-
-## 💼 Career Objective
-
-> **To become a professional Data Analyst who transforms complex data into clear, actionable insights and builds dashboards that support smarter business decisions.**
+**Real-world Data Analytics Projects** · **Interactive Power BI Dashboards** · **SQL Analytics** · **Python EDA** · **Business Insights**
 
 ---
 
-## 🤝 Let's Connect
+# 🎯 Current Focus
+
+```text
+SQL & Advanced Queries       ███████████████████░  95%
+Python for Analytics         ██████████████████░░  90%
+Power BI & Dashboards        █████████████████░░░  85%
+Statistics & EDA             ████████████████░░░░  80%
+Business Analytics            ███████████████░░░░░  75%
+BigQuery & Snowflake         ██████████████░░░░░░  70%
+```
+
+---
+
+# 💼 Career Objective
+
+> **To become a professional Data Analyst who transforms complex datasets into clear, actionable insights and builds dashboards that support smarter business decisions.**
+
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
-📧 **routj345@gmail.com**  
-🌐 **[Portfolio](https://srout-ai.vercel.app/)** · 💼 **[LinkedIn](https://www.linkedin.com/in/sunanda-rout-038091329/)** · 🐙 **[GitHub](https://github.com/SunandaRout)**
+<a href="https://www.linkedin.com/in/sunanda-rout-038091329/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/SunandaRout"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://srout-ai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:routj345@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
