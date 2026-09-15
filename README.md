@@ -23,7 +23,7 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 - 🎓 **Gita Autonomous College, Bhubaneswar**
 - 📊 Focused on **Data Analysis & Business Intelligence**
 - 🐍 **Python, Pandas, NumPy, Matplotlib, Seaborn**
-- 🗄️ **SQL & MySQL** for data querying and analysis
+- 🗄️ **SQL & PostgreSQL** for data querying and analysis
 - 📈 **Power BI & Excel** for dashboards and reporting
 - ☁️ **BigQuery & Snowflake** for modern data platforms
 - 🔍 **Data Cleaning, EDA, Statistics & Data Visualization**
@@ -64,19 +64,34 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 
 <div align="center">
 
-### Programming Languages
+### Programming Languages & Query
 
-<img src="https://skillicons.dev/icons?i=python,javascript,java,html,css" />
+<img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,postgres" />
 
-**Python** · **JavaScript** · **Java** · **HTML5** · **CSS3** · **SQL**
+<br/>
 
-### Data Analytics & Visualization
+**Python** · **JavaScript** · **Java** · **HTML5** · **CSS3** · **SQL** · **PostgreSQL**
 
-**Pandas** · **NumPy** · **Power BI** · **Excel** · **Matplotlib** · **Seaborn** · **EDA** · **Statistics**
+### 📊 Data Analytics & Visualization
 
-### Data Platforms & Tools
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-**MySQL** · **BigQuery** · **Snowflake** · **Git** · **GitHub** · **VS Code**
+**EDA** · **Statistics** · **Data Cleaning** · **Data Visualization**
+
+### ☁️ Data Platforms & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<br/>
+
+**PostgreSQL** · **BigQuery** · **Snowflake** · **Git** · **GitHub** · **VS Code**
 
 </div>
 
@@ -90,7 +105,7 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 |:---:|:---:|:---:|:---:|
 | Data Cleaning | SQL | Power BI | BigQuery |
 | Pandas | EDA | Excel | Snowflake |
-| NumPy | Statistics | Matplotlib | MySQL |
+| NumPy | Statistics | Matplotlib | PostgreSQL |
 | Data Transformation | Business Analysis | Seaborn | Data Warehousing |
 
 </div>
