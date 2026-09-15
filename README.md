@@ -34,7 +34,7 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SunandaRout/SunandaRout/main/assets/data-analytics-dashboard.svg" width="100%" alt="Professional Data Analytics Dashboard" />
+<img src="./assets/data-analytics-dashboard.svg" width="100%" alt="Professional Data Analytics Dashboard" />
 
 </div>
 
