@@ -64,9 +64,11 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 
 <div align="center">
 
-### Programming & Query
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://skillicons.dev/icons?i=python,javascript,java,html,css" />
+
+**Python** · **JavaScript** · **Java** · **HTML5** · **CSS3** · **SQL**
 
 ### Data Analytics & Visualization
 
@@ -74,7 +76,7 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 
 ### Data Platforms & Tools
 
-**BigQuery** · **Snowflake** · **Git** · **GitHub** · **VS Code**
+**MySQL** · **BigQuery** · **Snowflake** · **Git** · **GitHub** · **VS Code**
 
 </div>
 
