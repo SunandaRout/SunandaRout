@@ -34,12 +34,11 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SunandaRout&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunandaRout&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="175" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunandaRout&theme=github_dark" width="95%" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunandaRout&theme=github_dark" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SunandaRout&theme=github-dark-blue&hide_border=true" width="80%" />
 
 </div>
 
@@ -67,11 +66,9 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 
 ### Programming & Query
 
-<img src="https://skillicons.dev/icons?i=python,mysql,js,java,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 
 ### Data Analytics & Visualization
-
-<img src="https://skillicons.dev/icons?i=python" />
 
 **Pandas** · **NumPy** · **Power BI** · **Excel** · **Matplotlib** · **Seaborn** · **EDA** · **Statistics**
 
@@ -106,14 +103,7 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 
 # 🎯 Current Focus
 
-```text
-SQL & Advanced Queries       ███████████████████░  95%
-Python for Analytics         ██████████████████░░  90%
-Power BI & Dashboards        █████████████████░░░  85%
-Statistics & EDA             ████████████████░░░░  80%
-Business Analytics            ███████████████░░░░░  75%
-BigQuery & Snowflake         ██████████████░░░░░░  70%
-```
+**Advanced SQL** → **Python for Analytics** → **Statistics** → **Power BI** → **Business Analytics** → **Modern Data Warehousing**
 
 ---
 
