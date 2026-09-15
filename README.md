@@ -37,10 +37,10 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 
 <table>
 <tr>
-<td align="center"><b>24+</b><br/>Repositories</td>
-<td align="center"><b>20</b><br/>Public Repositories</td>
-<td align="center"><b>4</b><br/>Private Repositories</td>
-<td align="center"><b>Data</b><br/>Analytics Focus</td>
+<td align="center"><b>24</b><br/>Repositories</td>
+<td align="center"><b>19</b><br/>Public</td>
+<td align="center"><b>5</b><br/>Private</td>
+<td align="center"><b>Data Analytics</b><br/>Focus</td>
 </tr>
 </table>
 
@@ -53,25 +53,21 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 
 ---
 
-## 🛠️ Languages & Technologies
+## 💻 Languages & Technologies
 
 <div align="center">
 
 ### Programming & Query
 
-<img src="https://skillicons.dev/icons?i=python,mysql,js,java,cpp" />
+<img src="https://skillicons.dev/icons?i=python,mysql,js,java,cpp,html,css" />
 
-### Data Analytics & Visualization
+### Data Analytics
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy" />
+**Pandas** · **NumPy** · **Matplotlib** · **Seaborn** · **Power BI** · **Excel** · **EDA** · **Statistics**
 
-**Power BI** • **Excel** • **Matplotlib** • **Seaborn** • **EDA** • **Statistics**
+### Data Platforms & Developer Tools
 
-### Data Platforms & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-**BigQuery** • **Snowflake**
+**BigQuery** · **Snowflake** · **Git** · **GitHub** · **VS Code**
 
 </div>
 
