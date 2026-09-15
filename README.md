@@ -30,21 +30,11 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 
 ---
 
-# 📊 GitHub Dashboard
+# 📊 Analytics Dashboard
 
 <div align="center">
 
-<a href="https://github.com/SunandaRout">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SunandaRout&theme=github_dark" height="200" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/SunandaRout">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SunandaRout&theme=github_dark&utcOffset=5.5" height="200" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunandaRout&theme=github_dark" width="95%" />
+<img src="https://raw.githubusercontent.com/SunandaRout/SunandaRout/main/assets/data-analytics-dashboard.svg" width="100%" alt="Professional Data Analytics Dashboard" />
 
 </div>
 
@@ -117,21 +107,6 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 ### ☁️ Data Platforms & Tools
 
 **PostgreSQL** · **BigQuery** · **Snowflake** · **Git** · **GitHub** · **VS Code**
-
-</div>
-
----
-
-# 📈 Analytics Skill Stack
-
-<div align="center">
-
-| 🧹 Data Preparation | 🔎 Analysis | 📊 Visualization | ☁️ Data Platforms |
-|:---:|:---:|:---:|:---:|
-| Data Cleaning | SQL | Power BI | BigQuery |
-| Pandas | EDA | Excel | Snowflake |
-| NumPy | Statistics | Matplotlib | PostgreSQL |
-| Data Transformation | Business Analysis | Seaborn | Data Warehousing |
 
 </div>
 
