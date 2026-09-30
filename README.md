@@ -52,7 +52,7 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 <p><b>Next.js · React · TypeScript · Three.js · React Three Fiber · Drei · Tailwind CSS · Custom CSS</b></p>
 <a href="https://github.com/SunandaRout/Sunanda_Rout_Portfolio.git">View Repository →</a>
 </td>
-td width="50%">
+<td width="50%">
 <h3>📊 DataViz AI</h3>
 <p>Analytics platform for automated EDA, visualization, SQL analysis and business insights.</p>
 <p><b>Python · SQL · EDA · Data Visualization</b></p>
