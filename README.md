@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sunanda Rout
 
-### 📊 Data Analyst | Data Analytics Enthusiast | B.Tech CSE (IoT) Student
+### 📊 Data Analyst | Data Science Enthusiast | B.Tech CSE (IoT) Student
 
 **Turning raw data into insights, dashboards, and better business decisions.**
 
@@ -26,7 +26,7 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 - 🗄️ **SQL & PostgreSQL** for data querying and analysis
 - 📈 **Power BI & Excel** for dashboards and reporting
 - ☁️ **BigQuery & Snowflake** for modern data platforms
-- 🔍 **Data Cleaning, EDA, Statistics & Data Visualization**
+- 🔍 **Data Cleaning, EDA, Statistics,Machine Learning,Deep Learning & Data Visualization**
 
 ---
 
@@ -47,31 +47,33 @@ I am a **B.Tech Computer Science & Engineering (IoT) student** focused on buildi
 <table>
 <tr>
 <td width="50%">
+<h3>📊Sunanda_Rout_Portfolio</h3>
+<p>Built with Next.js, React, TypeScript, Three.js, React Three Fiber, Drei, Tailwind CSS and custom CSS.</p>
+<p><b>Next.js · React · TypeScript · Three.js · React Three Fiber · Drei · Tailwind CSS · Custom CSS</b></p>
+<a href="https://github.com/SunandaRout/Sunanda_Rout_Portfolio.git">View Repository →</a>
+</td>
+td width="50%">
 <h3>📊 DataViz AI</h3>
 <p>Analytics platform for automated EDA, visualization, SQL analysis and business insights.</p>
 <p><b>Python · SQL · EDA · Data Visualization</b></p>
 <a href="https://github.com/SunandaRout/dataviz-ai-">View Repository →</a>
 </td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🏏 IPL Performance Analytics</h3>
+<p>Data analysis and visualization project exploring IPL player and team performance using historical match data.</p>
+<p><b>Python · Pandas · SQL · Power BI · Data Visualization</b></p>
+<a href="https://github.com/SunandaRout/ipl-performance-analytics">View Repository →</a>
+</td>
+
 <td width="50%">
 <h3>🛍️ Customer Behaviour Dashboard</h3>
 <p>Customer analytics project with data preparation, SQL analysis and interactive Power BI dashboard.</p>
 <p><b>Python · Pandas · SQL · Power BI</b></p>
 <a href="https://github.com/SunandaRout/Customer-behaviour-dashboard">View Repository →</a>
 </td>
-</tr>
-<tr>
-<td width="50%">
-<h3>🦠 COVID Portfolio Project</h3>
-<p>Data analysis and visualization project built around public COVID-19 data.</p>
-<p><b>Data Analytics · Visualization</b></p>
-<a href="https://github.com/SunandaRout/covid-portfolio-project">View Repository →</a>
-</td>
-<td width="50%">
-<h3>🎬 Netflix Data Analysis</h3>
-<p>Exploratory analysis of Netflix content, trends and dataset patterns.</p>
-<p><b>Python · Pandas · EDA</b></p>
-<a href="https://github.com/SunandaRout/Netflix-">View Repository →</a>
-</td>
+
 </tr>
 </table>
 
